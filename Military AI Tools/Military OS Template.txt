@@ -1,0 +1,28 @@
+graph TD
+    A[Military Operating Systems] --> B[Kernel Layer]
+    A --> C[System Services Layer]
+    A --> D[Application Layer]
+    B --> B1[Process Management]
+    B --> B2[Memory Management]
+    B --> B3[Device Drivers]
+    B --> B4[Inter-process Communication (IPC)]
+    C --> C1[Security Services]
+    C --> C2[Networking Services]
+    C --> C3[File System Services]
+    C --> C4[Real-time Scheduling Services]
+    D --> D1[Mission-critical Applications]
+    D --> D2[Command and Control Systems]
+    D --> D3[Data Analysis Tools]
+    D --> D4[User Interfaces (GUI/TUI)]
+    C2 --> C2A[Encryption Modules]
+    C2 --> C2B[Authentication Protocols]
+    C4 --> C4A[Task Prioritization Algorithms]
+    C4 --> C4B[Latency Minimization Techniques]
+    D1 --> D1A[Navigation Systems]
+    D1 --> D1B[Weapon Control Systems]
+    D2 --> D2A[Communication Interfaces]
+    D2 --> D2B[Battlefield Management Systems]
+    style A fill:#f4d03f,stroke:#000,stroke-width:2px
+    style B fill:#f1948a,stroke:#000,stroke-width:2px
+    style C fill:#85c1e9,stroke:#000,stroke-width:2px
+    style D fill:#82e0aa,stroke:#000,stroke-width:2px

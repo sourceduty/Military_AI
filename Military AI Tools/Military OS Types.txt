@@ -1,0 +1,50 @@
+graph TD
+    A[All Military Operating Systems] --> B[Real-Time Operating Systems (RTOS)]
+    A --> C[General-Purpose Military OS]
+    A --> D[Specialized Hardened OS]
+
+    %% RTOS Breakdown
+    B --> B1[Kernel Layer (RTOS)]
+    B --> B2[System Services (RTOS)]
+    B --> B3[Application Layer (RTOS)]
+    B1 --> B1A[Preemptive Scheduling]
+    B1 --> B1B[Task Synchronization]
+    B2 --> B2A[Real-Time Data Services]
+    B2 --> B2B[Minimal Security Services]
+    B3 --> B3A[Mission-Critical Real-Time Apps]
+
+    %% General-Purpose Military OS Breakdown
+    C --> C1[Kernel Layer (General)]
+    C --> C2[System Services (General)]
+    C --> C3[Application Layer (General)]
+    C1 --> C1A[Monolithic or Microkernel Design]
+    C1 --> C1B[Hardware Abstraction Layer (HAL)]
+    C2 --> C2A[Enhanced Networking Services]
+    C2 --> C2B[Security Modules (Cryptography)]
+    C3 --> C3A[Command and Control Systems]
+    C3 --> C3B[User Interfaces (GUI/TUI)]
+    C3 --> C3C[Data Processing and Storage]
+
+    %% Specialized Hardened OS Breakdown
+    D --> D1[Kernel Layer (Hardened)]
+    D --> D2[System Services (Hardened)]
+    D --> D3[Application Layer (Hardened)]
+    D1 --> D1A[Fault Tolerance Mechanisms]
+    D1 --> D1B[High-Integrity Partitioning]
+    D2 --> D2A[Advanced Security Protocols]
+    D2 --> D2B[Trusted Platform Modules (TPM)]
+    D3 --> D3A[Cyber Defense Tools]
+    D3 --> D3B[Encryption and Key Management]
+
+    %% Interconnects and Cross-Type Features
+    A --> E[Cross-Type Services]
+    E --> E1[Interoperability Layer]
+    E --> E2[Standardized APIs]
+    E --> E3[Compliance Modules (MIL-STD)]
+
+    %% Styling
+    style A fill:#f4d03f,stroke:#000,stroke-width:2px
+    style B fill:#f1948a,stroke:#000,stroke-width:2px
+    style C fill:#85c1e9,stroke:#000,stroke-width:2px
+    style D fill:#82e0aa,stroke:#000,stroke-width:2px
+    style E fill:#d7bde2,stroke:#000,stroke-width:2px
