@@ -98,6 +98,8 @@ On the other hand, the Tactical Product GPT shifts from training to creation, ac
 
 The aircraft in the image appears to be a CF-18 Hornet, which is part of the Canadian Forces. The CF-18 is a versatile fighter jet used by the Royal Canadian Air Force (RCAF). It is indeed a supersonic aircraft, capable of reaching speeds in excess of Mach 2, which is more than twice the speed of sound.
 
+[Superdrone](https://chatgpt.com/g/g-676f91417e608191b05de4f065695233-superdrone) is a custom GPT made for researching and developing futuristic supersonic drone technologies. Its primary goal is to explore advanced propulsion systems, such as scramjets and pulse detonation engines, to achieve high-speed flight while ensuring efficiency and sustainability. Superdrone also investigates lightweight, heat-resistant materials for drone airframes and cutting-edge avionics for precise navigation and adaptive flight control at extreme speeds. The GPT delves into potential applications like high-speed cargo delivery, emergency response, and surveillance, while addressing challenges related to airspace integration, noise reduction, and regulatory issues. Additionally, Superdrone envisions a global network of drone hubs for efficient operations, emphasizing AI-driven systems for route optimization, collision avoidance, and autonomous mission execution.
+
 #
 
 ![CLI](https://github.com/user-attachments/assets/501e5ac3-d64c-4198-bbde-6178078ea298)
