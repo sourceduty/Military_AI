@@ -41,3 +41,5 @@ On the other hand, the Tactical Product GPT shifts from training to creation, ac
 #
 
 [Emergency AI](https://github.com/sourceduty/Emergency_AI)
+<br>
+[Army Tank Soldier](https://chatgpt.com/g/g-682e2155b670819184844fcfc3a6c47f-army-tank-soldier)
