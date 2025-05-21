@@ -131,5 +131,3 @@ The aircraft in the image appears to be a CF-18 Hornet, which is part of the Can
 [Survival](https://github.com/sourceduty/Survival)
 <br>
 [Robotics](https://github.com/sourceduty/Robotics)
-<br>
-[Superdrone](https://chatgpt.com/g/g-676f91417e608191b05de4f065695233-superdrone)
