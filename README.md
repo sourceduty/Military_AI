@@ -12,6 +12,21 @@ The “MIL-PRF” standard serves as the backbone for quality assurance across a
 
 [Military AI](https://chatgpt.com/g/g-678efdd1b83481918869cb50e65678ad-military-ai) was built to support the research and development of advanced artificial intelligence systems tailored for defense, security, and strategic military operations. It is designed to enhance situational awareness, automate critical decision-making, and optimize mission execution through robust, scalable, and secure AI models. These systems leverage real-time data processing, predictive analytics, and integration with cutting-edge hardware such as drones, autonomous vehicles, and surveillance platforms. Military AI focuses on ethical deployment aligned with international law, minimizing risks of collateral damage or unintended consequences in combat scenarios. It also includes capabilities in multilingual natural language processing for intelligence analysis and communication, combat simulation for strategic training, and hardened cybersecurity to withstand adversarial attacks. Utilizing state-of-the-art technologies like reinforcement learning, neural networks, and edge AI, this GPT ensures operational efficiency in high-stakes, resource-constrained environments, while facilitating collaboration with experts in machine learning, robotics, and defense strategy for continual improvement and validation.
 
+<br>
+
+| AI Model Name            | Functionality                                               | Application Area              | Key Technologies                     | Deployment Mode      |
+|--------------------------|-------------------------------------------------------------|-------------------------------|--------------------------------------|----------------------|
+| Project Maven            | Computer vision for autonomous surveillance and target recognition | Intelligence, Surveillance, Recon | Deep Learning, Neural Networks       | UAVs, Ground Vehicles|
+| X-47B                    | Autonomous flight and mission planning for drones            | Unmanned Aerial Systems (UAS)  | Reinforcement Learning, Path Planning| Airborne Systems     |
+| Sea Hunter               | Autonomous anti-submarine warfare and maritime patrol        | Naval Operations               | AI Navigation, Computer Vision      | Naval Vessels        |
+| Iron Dome AI             | Real-time missile defense and threat identification          | Air Defense                    | Machine Learning, Sensor Fusion     | Military Installations|
+| Aegis Combat System      | Real-time threat detection, tracking, and missile defense    | Naval Warfare                  | Radar Systems, AI Targeting          | Naval Destroyers     |
+| Hummingbird AI           | Swarm intelligence and coordinated drone flight              | Autonomous Drones              | Multi-Agent Systems, Reinforcement Learning | UAVs                |
+| Warfighting AI (DARPA)   | AI-driven autonomous combat systems and decision support     | Combat Operations              | Reinforcement Learning, Decision Trees | Land/Combat Vehicles |
+| Skyborg AI               | Autonomous combat aircraft and pilot assistance              | Air Combat                     | Autonomous Flight, Deep Learning     | Air Force Drones     |
+| GIDE (Global Information Dominance Experiment) | AI for real-time battlefield data analysis and decision-making | Command & Control              | Big Data Analytics, Machine Learning | Command Centers     |
+| Project Maven (TensorFlow) | Enhanced computer vision for identifying military objects   | ISR (Intelligence, Surveillance, Recon) | TensorFlow, Deep Learning           | UAVs, Satellites     |
+
 #
 
 ![Military Module](https://github.com/user-attachments/assets/cc0c20cf-f57d-4e7c-8f31-1378633a8511)
