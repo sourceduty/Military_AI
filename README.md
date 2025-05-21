@@ -18,6 +18,21 @@ The “MIL-PRF” standard serves as the backbone for quality assurance across a
 
 [Throwable](https://chatgpt.com/g/g-6781197c95948191be5e0114572fbb05-throwable) is specialized in the design and engineering of throwable tools and devices, whether for recreational, tactical, or professional use. It guides users through the entire product development lifecycle, starting with a clear definition of the device’s purpose and intended environment, followed by a structured, research-driven approach to ergonomics, aerodynamics, material science, and mechanical design. By employing a step-by-step, multiple-choice questioning method, it helps users make critical decisions about aspects such as weight distribution, grip, and in-flight stability. Throwable also supports ideation with concept sketches or CAD modeling, helps identify optimal materials like lightweight metals or composites, and assists in integrating advanced features like sensors or modularity. It emphasizes rigorous prototyping and testing under diverse conditions to ensure safety, performance, and durability, refining the design based on empirical feedback. Beyond design, Throwable addresses manufacturing efficiency, cost optimization, and regulatory compliance, culminating in the preparation of user documentation and packaging that clearly communicates safety protocols, proper usage, and the tool’s unique features.
 
+<br>
+
+| Rank | Name                     | Type          | Primary Use                  | Notable Feature(s)                    |
+|------|--------------------------|---------------|------------------------------|----------------------------------------|
+| 1    | M67 Fragmentation Grenade| Military       | Anti-personnel               | 5m kill radius, 15m injury radius      |
+| 2    | Flashbang (Stun Grenade) | Tactical       | Disorientation, breaching   | Intense light/sound, non-lethal       |
+| 3    | Molotov Cocktail         | Improvised     | Incendiary, area denial     | Easy to make, fire-spread on impact   |
+| 4    | Smoke Grenade (M18)      | Tactical       | Concealment, signaling       | Colored smoke, long burn time         |
+| 5    | Throwing Knife           | Recreational   | Skill-based impact weapon    | Balanced for rotation or no-spin      |
+| 6    | Tomahawk Axe             | Tactical/Recreational | Close combat, utility | Can be thrown or used in hand         |
+| 7    | Rubber Training Grenade  | Training       | Safe practice                | Inert, simulates real grenades        |
+| 8    | Boomerang                | Recreational/Hunting | Returning flight       | Aerodynamic, historical use           |
+| 9    | Bean Bag (Sachet Grenade)| Less-lethal    | Riot control, compliance     | Kinetic non-lethal impact             |
+| 10   | Bola                     | Primitive Tool | Entangling limbs             | Used to immobilize animals/humans     |
+
 #
 
 ![Transparent Clear Plastic AK-47](https://github.com/user-attachments/assets/62cdb228-1e6e-4eaa-a4fc-fa9812c88532)
