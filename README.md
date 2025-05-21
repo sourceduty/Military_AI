@@ -14,7 +14,7 @@ The “MIL-PRF” standard serves as the backbone for quality assurance across a
 
 #
 
-![Sticky Throw Tool](https://github.com/user-attachments/assets/43022406-b4e8-4ae4-8fff-526b605567b7)
+![Nades](https://github.com/user-attachments/assets/2a77d67e-4db6-4323-a305-e0db1f6054d1)
 
 [Throwable](https://chatgpt.com/g/g-6781197c95948191be5e0114572fbb05-throwable) is specialized in the design and engineering of throwable tools and devices, whether for recreational, tactical, or professional use. It guides users through the entire product development lifecycle, starting with a clear definition of the device’s purpose and intended environment, followed by a structured, research-driven approach to ergonomics, aerodynamics, material science, and mechanical design. By employing a step-by-step, multiple-choice questioning method, it helps users make critical decisions about aspects such as weight distribution, grip, and in-flight stability. Throwable also supports ideation with concept sketches or CAD modeling, helps identify optimal materials like lightweight metals or composites, and assists in integrating advanced features like sensors or modularity. It emphasizes rigorous prototyping and testing under diverse conditions to ensure safety, performance, and durability, refining the design based on empirical feedback. Beyond design, Throwable addresses manufacturing efficiency, cost optimization, and regulatory compliance, culminating in the preparation of user documentation and packaging that clearly communicates safety protocols, proper usage, and the tool’s unique features.
 
