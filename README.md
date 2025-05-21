@@ -2,10 +2,6 @@
 
 The custom military GPTs in this repo showcase a layered architecture and highly regulated design structure tailored specifically for defense applications. The “Military OS Template” and “Military OS Types” documents represent conceptual flowcharts for structuring robust military-grade operating systems. These systems are divided into modular layers — from kernel-level process and memory management to specialized application layers dedicated to mission-critical tasks and command systems. A distinct emphasis is placed on modularity, real-time responsiveness, and high-security services, all essential for dynamic battlefield environments. The Real-Time Operating Systems (RTOS) category, in particular, is optimized for tasks requiring deterministic timing, indicating its role in weapons control, tactical maneuvering, and rapid decision-making contexts.
 
-The GPT-driven military AI models discussed in the “Military AI Models” documentation operate under tightly controlled frameworks. Their development is limited to defense entities, often in collaboration with certified contractors and allied defense organizations. These models are not general-purpose; instead, they are rigorously regulated to comply with international arms control laws and national security protocols. Military GPTs are trained not only on domain-specific tactical data but also on a controlled linguistic framework to handle sensitive information securely. Their applications range from autonomous reconnaissance analysis and threat detection to language translation in hostile territories. The use of such models is not just a matter of technological deployment but involves ethical oversight and multi-tiered approval, reinforcing the high-stakes nature of military AI tools.
-
-The “MIL-PRF” standard serves as the backbone for quality assurance across all these technologies. It enforces a strict rubric of performance metrics, including durability, operational integrity in extreme conditions, and interoperability with existing military systems. This specification is integral to the development of both physical devices and software tools, including AI and OS systems described above. It ensures that every custom GPT or module meets the reliability standards expected in combat scenarios, where failure could cost lives. The MIL-PRF document illustrates how the military ecosystem integrates human factors, environmental resilience, and security hardening — all critical for operational success. In essence, these military custom GPTs reflect a confluence of advanced machine intelligence, strict governance, and mission-oriented design, underscoring their critical role in modern defense infrastructure.
-
 #
 
 ![Military AI](https://github.com/user-attachments/assets/cd9c98b7-1060-4812-869a-58416b606db8)
@@ -89,6 +85,12 @@ On the other hand, the Tactical Product GPT shifts from training to creation, ac
 | 8    | Benchmade Infidel Knife    | Tactical Knife     | Double-action OTF, stainless steel, MIL-SPEC materials    | EDC, last-resort defense                 |
 | 9    | CamelBak Mil Spec Antidote  | Hydration System   | Quick link, insulated tube, durable bladder               | Long-duration field ops                  |
 | 10   | 5.11 Tactical Rush72 Pack  | Tactical Backpack  | MOLLE webbing, water-resistant, 55L capacity              | 72-hour missions, deployment travel      |
+
+#
+
+![Army Humanoid](https://github.com/user-attachments/assets/89c5cb5b-36d6-4d85-b93e-6fa498aacbaa)
+
+[Army Robots](https://chatgpt.com/g/g-682e66ffa3e881918019fedecf2f499a-army-robot) is a custom GPT specialized in military robotics research and development with a focus on providing expert-level support in the design, optimization, and deployment of robotic systems for defense applications. It integrates cutting-edge knowledge from artificial intelligence, machine learning, autonomous systems, and advanced robotics engineering to assist in creating robust, efficient, and mission-ready technologies tailored to modern and future battlefield scenarios. Army Robot aids in generating detailed technical specifications, assessing sensor and weapon integration, selecting materials for durability and stealth, and ensuring compliance with military safety standards and interoperability requirements. It also evaluates energy efficiency, communication protocols, terrain adaptability, and cybersecurity measures for unmanned systems, while exploring innovations like swarm robotics, AI-driven threat detection, and wearable exoskeletons. Additionally, this GPT collaborates with users to translate high-level operational goals into actionable engineering blueprints, ensuring the alignment of all developments with ethical constraints and strategic defense objectives.
 
 #
 
