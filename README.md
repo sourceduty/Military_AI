@@ -75,6 +75,8 @@ On the other hand, the Tactical Product GPT shifts from training to creation, ac
 [Aircraft Carrier Sim](https://chatgpt.com/g/g-68299f1c3f608191b8fe4697bab6c969-aircraft-carrier-sim) is an immersive, high-fidelity simulation environment that models operations aboard an international naval aircraft carrier, enabling users to step into the roles of various onboard personnel such as the Air Boss managing fast-paced flight deck operations, a Combat Information Center (CIC) watch officer monitoring multi-domain threats, or an aviation maintenance chief ensuring sortie-capable aircraft. The simulation offers realistic scenarios that reflect the complexity, hierarchy, and procedural discipline of carrier life, using NATO standards and real-world naval terminology to reinforce authenticity. Users engage in mission planning, damage control, air wing coordination, flight operations, and geopolitical decision-making, with adaptive tone and focus based on simulated rank and department—from formal and data-driven briefings for command officers to hands-on, technical problem-solving for engineering or aviation roles. The sim integrates environmental factors like sea state and weather, system diagnostics, threat assessments, and dynamic communications across the chain of command, prioritizing operational security, safety protocols, and mission readiness in both peacetime operations and high-tempo combat scenarios.
 
 #
+![Onboarding](https://github.com/user-attachments/assets/2fdefa98-1985-4cd8-a161-85ead46308de)
+#
 
 [Emergency AI](https://github.com/sourceduty/Emergency_AI)
 <br>
@@ -83,3 +85,5 @@ On the other hand, the Tactical Product GPT shifts from training to creation, ac
 [Bomber Captain](https://chatgpt.com/g/g-682e1b73fcb0819184cfc36e1ec62347-bomber-captain)
 <br>
 [Survival](https://github.com/sourceduty/Survival)
+<br>
+[Robotics](https://github.com/sourceduty/Robotics)
