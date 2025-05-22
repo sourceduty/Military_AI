@@ -17,11 +17,6 @@ The custom military GPTs in this repo showcase a layered architecture and highly
 | Sea Hunter               | Autonomous anti-submarine warfare and maritime patrol        | Naval Operations               | AI Navigation, Computer Vision      | Naval Vessels        |
 | Iron Dome AI             | Real-time missile defense and threat identification          | Air Defense                    | Machine Learning, Sensor Fusion     | Military Installations|
 | Aegis Combat System      | Real-time threat detection, tracking, and missile defense    | Naval Warfare                  | Radar Systems, AI Targeting          | Naval Destroyers     |
-| Hummingbird AI           | Swarm intelligence and coordinated drone flight              | Autonomous Drones              | Multi-Agent Systems, Reinforcement Learning | UAVs                |
-| Warfighting AI (DARPA)   | AI-driven autonomous combat systems and decision support     | Combat Operations              | Reinforcement Learning, Decision Trees | Land/Combat Vehicles |
-| Skyborg AI               | Autonomous combat aircraft and pilot assistance              | Air Combat                     | Autonomous Flight, Deep Learning     | Air Force Drones     |
-| GIDE (Global Information Dominance Experiment) | AI for real-time battlefield data analysis and decision-making | Command & Control              | Big Data Analytics, Machine Learning | Command Centers     |
-| Project Maven (TensorFlow) | Enhanced computer vision for identifying military objects   | ISR (Intelligence, Surveillance, Recon) | TensorFlow, Deep Learning           | UAVs, Satellites     |
 
 #
 
