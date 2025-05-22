@@ -44,11 +44,6 @@ The custom military GPTs in this repo showcase a layered architecture and highly
 | 3    | Molotov Cocktail         | Improvised     | Incendiary, area denial     | Easy to make, fire-spread on impact   |
 | 4    | Smoke Grenade (M18)      | Tactical       | Concealment, signaling       | Colored smoke, long burn time         |
 | 5    | Throwing Knife           | Recreational   | Skill-based impact weapon    | Balanced for rotation or no-spin      |
-| 6    | Tomahawk Axe             | Tactical/Recreational | Close combat, utility | Can be thrown or used in hand         |
-| 7    | Rubber Training Grenade  | Training       | Safe practice                | Inert, simulates real grenades        |
-| 8    | Boomerang                | Recreational/Hunting | Returning flight       | Aerodynamic, historical use           |
-| 9    | Bean Bag (Sachet Grenade)| Less-lethal    | Riot control, compliance     | Kinetic non-lethal impact             |
-| 10   | Bola                     | Primitive Tool | Entangling limbs             | Used to immobilize animals/humans     |
 
 #
 
