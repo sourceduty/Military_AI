@@ -1,4 +1,4 @@
-![Projectile](https://github.com/user-attachments/assets/8bbdb3d4-cbbd-4a33-bc0c-05f36a0a908a)
+![Scuba Rocket](https://github.com/user-attachments/assets/72c81fe9-bc5d-4b69-a7c3-1e1c35e80260)
 
 The custom military GPTs in this repo showcase a layered architecture and highly regulated design structure tailored specifically for defense applications. The “Military OS Template” and “Military OS Types” documents represent conceptual flowcharts for structuring robust military-grade operating systems. These systems are divided into modular layers — from kernel-level process and memory management to specialized application layers dedicated to mission-critical tasks and command systems. A distinct emphasis is placed on modularity, real-time responsiveness, and high-security services, all essential for dynamic battlefield environments. The Real-Time Operating Systems (RTOS) category, in particular, is optimized for tasks requiring deterministic timing, indicating its role in weapons control, tactical maneuvering, and rapid decision-making contexts.
 
