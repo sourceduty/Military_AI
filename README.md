@@ -4,16 +4,6 @@ The custom military GPTs in this repo showcase a layered architecture and highly
 
 [Military AI](https://chatgpt.com/g/g-678efdd1b83481918869cb50e65678ad-military-ai) was built to support the research and development of advanced artificial intelligence systems tailored for defense, security, and strategic military operations. It is designed to enhance situational awareness, automate critical decision-making, and optimize mission execution through robust, scalable, and secure AI models. These systems leverage real-time data processing, predictive analytics, and integration with cutting-edge hardware such as drones, autonomous vehicles, and surveillance platforms. Military AI focuses on ethical deployment aligned with international law, minimizing risks of collateral damage or unintended consequences in combat scenarios. It also includes capabilities in multilingual natural language processing for intelligence analysis and communication, combat simulation for strategic training, and hardened cybersecurity to withstand adversarial attacks. Utilizing state-of-the-art technologies like reinforcement learning, neural networks, and edge AI, this GPT ensures operational efficiency in high-stakes, resource-constrained environments, while facilitating collaboration with experts in machine learning, robotics, and defense strategy for continual improvement and validation.
 
-<br>
-
-| AI Model Name            | Functionality                                               | Application Area              | Key Technologies                     | Deployment Mode      |
-|--------------------------|-------------------------------------------------------------|-------------------------------|--------------------------------------|----------------------|
-| Project Maven            | Computer vision for autonomous surveillance and target recognition | Intelligence, Surveillance, Recon | Deep Learning, Neural Networks       | UAVs, Ground Vehicles|
-| X-47B                    | Autonomous flight and mission planning for drones            | Unmanned Aerial Systems (UAS)  | Reinforcement Learning, Path Planning| Airborne Systems     |
-| Sea Hunter               | Autonomous anti-submarine warfare and maritime patrol        | Naval Operations               | AI Navigation, Computer Vision      | Naval Vessels        |
-| Iron Dome AI             | Real-time missile defense and threat identification          | Air Defense                    | Machine Learning, Sensor Fusion     | Military Installations|
-| Aegis Combat System      | Real-time threat detection, tracking, and missile defense    | Naval Warfare                  | Radar Systems, AI Targeting          | Naval Destroyers     |
-
 #
 
 ![Handgun](https://github.com/user-attachments/assets/b2f50676-55f5-45a7-a927-df33ad14c932)
@@ -84,13 +74,13 @@ The aircraft in the image appears to be a CF-18 Hornet, which is part of the Can
 
 ![Military_Benchmark](https://github.com/user-attachments/assets/aa1f4976-5ee8-4091-b0ed-e816ec655ae7)
 
-[Military Spec](https://chatgpt.com/g/g-678cf9f078148191a1650842cbf85c10-military-spec) was developed to assist engineers, designers, and program managers in understanding, applying, and complying with Military Performance Specifications (MIL-PRF) during the development of equipment and systems intended for military use. It interprets the often complex and technical language of MIL-PRF standards to extract critical performance, durability, environmental, and reliability requirements, enabling users to design products that meet or exceed the rigorous conditions faced in military environments. Military Spec provides expert guidance on material selection, mechanical and electronic design, manufacturing processes, and validation testing protocols, ensuring alignment with key criteria such as thermal stability, shock and vibration resistance, electromagnetic compatibility, water ingress protection, and operational lifespan under harsh or combat conditions. It also helps users perform gap analyses, identify compliance shortfalls, and recommend improvements or cost-effective alternatives without sacrificing mission-critical functionality. Furthermore, this GPT can generate technical documentation, schematics, and test plans tailored to certification needs, streamlining the path to military approval and deployment while aligning development with strategic defense objectives and operational requirements.
+[Military Spec](https://chatgpt.com/g/g-678cf9f078148191a1650842cbf85c10-military-spec) was developed to assist engineers, designers, and program managers in understanding, applying, and complying with Military Performance Specifications (MIL-PRF) during the development of equipment and systems intended for military use. It interprets the often complex and technical language of MIL-PRF standards to extract critical performance, durability, environmental, and reliability requirements, enabling users to design products that meet or exceed the rigorous conditions faced in military environments. Military Spec provides expert guidance on material selection, mechanical and electronic design, manufacturing processes, and validation testing protocols, ensuring alignment with key criteria such as thermal stability, shock and vibration resistance, electromagnetic compatibility, water ingress protection, and operational lifespan under harsh or combat conditions.
 
 #
 
 ![Aircraft Carrier Sim](https://github.com/user-attachments/assets/a3ad5c21-352e-4aed-a1b1-7c32b78407ec)
 
-[Aircraft Carrier Sim](https://chatgpt.com/g/g-68299f1c3f608191b8fe4697bab6c969-aircraft-carrier-sim) is an immersive, high-fidelity simulation environment that models operations aboard an international naval aircraft carrier, enabling users to step into the roles of various onboard personnel such as the Air Boss managing fast-paced flight deck operations, a Combat Information Center (CIC) watch officer monitoring multi-domain threats, or an aviation maintenance chief ensuring sortie-capable aircraft. The simulation offers realistic scenarios that reflect the complexity, hierarchy, and procedural discipline of carrier life, using NATO standards and real-world naval terminology to reinforce authenticity. Users engage in mission planning, damage control, air wing coordination, flight operations, and geopolitical decision-making, with adaptive tone and focus based on simulated rank and department—from formal and data-driven briefings for command officers to hands-on, technical problem-solving for engineering or aviation roles. The sim integrates environmental factors like sea state and weather, system diagnostics, threat assessments, and dynamic communications across the chain of command, prioritizing operational security, safety protocols, and mission readiness in both peacetime operations and high-tempo combat scenarios.
+[Aircraft Carrier Sim](https://chatgpt.com/g/g-68299f1c3f608191b8fe4697bab6c969-aircraft-carrier-sim) is an immersive, high-fidelity simulation environment that models operations aboard an international naval aircraft carrier, enabling users to step into the roles of various onboard personnel such as the Air Boss managing fast-paced flight deck operations, a Combat Information Center (CIC) watch officer monitoring multi-domain threats, or an aviation maintenance chief ensuring sortie-capable aircraft. The simulation offers realistic scenarios that reflect the complexity, hierarchy, and procedural discipline of carrier life, using NATO standards and real-world naval terminology to reinforce authenticity. 
 
 #
 
@@ -124,6 +114,10 @@ Maintaining privacy in the military is a critical responsibility that ensures op
 > Type $CMD:HELP to view available mission commands.
 > Awaiting operational directive...
 ```
+#
+
+![Rambo](https://github.com/user-attachments/assets/d33b3316-40f2-472b-ae33-be6984631501)
+
 #
 
 [Emergency AI](https://github.com/sourceduty/Emergency_AI)
