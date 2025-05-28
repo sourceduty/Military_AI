@@ -78,7 +78,7 @@ The aircraft in the image appears to be a CF-18 Hornet, which is part of the Can
 
 #
 
-![CLI](https://github.com/user-attachments/assets/501e5ac3-d64c-4198-bbde-6178078ea298)
+![CLI](https://github.com/user-attachments/assets/baff273f-47be-470a-ad93-067f745eaebf)
 
 [Military CLI](https://chatgpt.com/g/g-6829c450f6ec8191863903b23dd47b38-military-cli) is a fictional, terminal-style military command-line interface designed to simulate immersive command-and-control (C2) environments, operational planning, and battlefield interactions for role-playing or training purposes. It allows users to initialize areas of operation, deploy virtual units, request air support, simulate logistics convoys, monitor unit status, and generate detailed SITREPs — all through structured, realistic command-line syntax. With commands such as init_ao, deploy_unit, request_air_support, and init_logistics, users can craft and control richly detailed military scenarios complete with fictional coordinates, unit designations, enemy contact reports, and tactical reassignments. The system maintains a strict military theme, devoid of GUI elements, and delivers outputs entirely in a terminal text format to preserve immersion. It is not intended for real-world military use but serves as a powerful tool for storytelling, simulation, or educational exercises related to military operations.
 
