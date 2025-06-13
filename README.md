@@ -1,4 +1,4 @@
-![Remote Control WW2](https://github.com/user-attachments/assets/fea75e63-5e43-4439-9c75-b008ea9b3cab)
+![Modern Stealth Warship Design](https://github.com/user-attachments/assets/4f1dfb33-eb67-4b19-9948-cd50765dda81)
 
 The custom military GPTs in this repo showcase a layered architecture and highly regulated design structure tailored specifically for defense applications. The “Military OS Template” and “Military OS Types” documents represent conceptual flowcharts for structuring robust military-grade operating systems. These systems are divided into modular layers — from kernel-level process and memory management to specialized application layers dedicated to mission-critical tasks and command systems. A distinct emphasis is placed on modularity, real-time responsiveness, and high-security services, all essential for dynamic battlefield environments. The Real-Time Operating Systems (RTOS) category, in particular, is optimized for tasks requiring deterministic timing, indicating its role in weapons control, tactical maneuvering, and rapid decision-making contexts.
 
