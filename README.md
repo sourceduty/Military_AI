@@ -1,4 +1,4 @@
-![Scuba Rocket](https://github.com/user-attachments/assets/97823d0a-6faa-4f15-8c21-ea2a586e8c33)
+![WW2](https://github.com/user-attachments/assets/a3683bd4-c613-4b78-b698-836f294819b0)
 
 The custom military GPTs in this repo showcase a layered architecture and highly regulated design structure tailored specifically for defense applications. The “Military OS Template” and “Military OS Types” documents represent conceptual flowcharts for structuring robust military-grade operating systems. These systems are divided into modular layers — from kernel-level process and memory management to specialized application layers dedicated to mission-critical tasks and command systems. A distinct emphasis is placed on modularity, real-time responsiveness, and high-security services, all essential for dynamic battlefield environments. The Real-Time Operating Systems (RTOS) category, in particular, is optimized for tasks requiring deterministic timing, indicating its role in weapons control, tactical maneuvering, and rapid decision-making contexts.
 
@@ -6,7 +6,7 @@ The custom military GPTs in this repo showcase a layered architecture and highly
 
 #
 
-![Handgun](https://github.com/user-attachments/assets/b2f50676-55f5-45a7-a927-df33ad14c932)
+![Scuba Rocket](https://github.com/user-attachments/assets/97823d0a-6faa-4f15-8c21-ea2a586e8c33)
 
 [Military Module](https://chatgpt.com/g/g-677ec39e33f881918d6d02c27918bd7d-military-module) was developed to support the design, engineering, and optimization of modular military systems and equipment. It specializes in developing flexible, scalable, and adaptive solutions tailored for diverse operational environments and mission profiles. Whether the focus is on personal protective gear, vehicle platforms, weapon systems, or logistical infrastructure, this GPT helps conceptualize and refine modular designs that ensure interoperability, rapid deployment, ease of maintenance, and future upgradeability. It provides detailed technical insights, compatibility assessments, and engineering solutions that align with military standards, while also factoring in durability, cost-efficiency, and the integration of advanced technologies such as smart materials and autonomous systems. The tool is particularly effective for collaboratively troubleshooting design challenges, creating comprehensive specifications, and proposing innovative enhancements that reinforce operational effectiveness and tactical versatility.
 
