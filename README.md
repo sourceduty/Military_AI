@@ -122,6 +122,8 @@ Maintaining privacy in the military is a critical responsibility that ensures op
 Alex: _I can't stop, improve or buy guns. I don't like gun culture, shooting and I can't join or work the military._
 
 #
+![Make The Road](https://github.com/user-attachments/assets/d6077bcc-4b87-49d1-91e7-98d4e0cb6153)
+#
 
 [Emergency AI](https://github.com/sourceduty/Emergency_AI)
 <br>
