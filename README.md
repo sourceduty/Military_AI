@@ -1,4 +1,5 @@
 ![Floating Amphib 'Iron Turtle' Military Tank](https://github.com/user-attachments/assets/c003306a-e07b-4546-89b0-aa1f6eefe5a0)
+![Rubber](https://github.com/user-attachments/assets/0dbc9b3a-f75d-4113-b0e8-744fde4c4ff6)
 
 The custom military GPTs in this repo showcase a layered architecture and highly regulated design structure tailored specifically for defense applications. The “Military OS Template” and “Military OS Types” documents represent conceptual flowcharts for structuring robust military-grade operating systems. These systems are divided into modular layers — from kernel-level process and memory management to specialized application layers dedicated to mission-critical tasks and command systems. A distinct emphasis is placed on modularity, real-time responsiveness, and high-security services, all essential for dynamic battlefield environments. The Real-Time Operating Systems (RTOS) category, in particular, is optimized for tasks requiring deterministic timing, indicating its role in weapons control, tactical maneuvering, and rapid decision-making contexts.
 
