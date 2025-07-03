@@ -1,5 +1,5 @@
-![Floating Amphib 'Iron Turtle' Military Tank](https://github.com/user-attachments/assets/c003306a-e07b-4546-89b0-aa1f6eefe5a0)
 ![Jumper Jet](https://github.com/user-attachments/assets/81630d4a-d947-438c-b5ce-03b8b8f68cd3)
+![Shit](https://github.com/user-attachments/assets/84fae149-caf8-440f-be9f-17775fb2ec1e)
 
 The custom military GPTs in this repo showcase a layered architecture and highly regulated design structure tailored specifically for defense applications. The “Military OS Template” and “Military OS Types” documents represent conceptual flowcharts for structuring robust military-grade operating systems. These systems are divided into modular layers — from kernel-level process and memory management to specialized application layers dedicated to mission-critical tasks and command systems. A distinct emphasis is placed on modularity, real-time responsiveness, and high-security services, all essential for dynamic battlefield environments. The Real-Time Operating Systems (RTOS) category, in particular, is optimized for tasks requiring deterministic timing, indicating its role in weapons control, tactical maneuvering, and rapid decision-making contexts.
 
@@ -64,6 +64,10 @@ The aircraft in the image appears to be a CF-18 Hornet, which is part of the Can
 ![Amphib Army](https://github.com/user-attachments/assets/58543262-2bfc-423b-8aba-00d553ee67ba)
 
 [Amphib Army](https://chatgpt.com/g/g-682e61b1c6208191bf89d7989015e797-amphib-army) is a custom GPT that was built specifically to support the research, analysis, and development of amphibious military assault vehicles and operations. It serves defense professionals, engineers, and strategic planners by providing detailed, technically grounded insights into the capabilities, innovations, and deployment strategies of amphibious assault vehicles (AAVs), landing craft, and related systems. The GPT focuses on critical performance metrics such as mobility in surf zones and inland terrain, survivability against modern threats, payload versatility, and interoperability across joint force components. It actively compares global defense industry trends, procurement strategies, and doctrinal evolution in amphibious warfare, drawing from a wide range of authoritative sources including defense white papers, contractor specifications, field manuals, and after-action reports. Additionally, Amphib Army supports tactical scenario planning for operations such as beachhead establishment, island seizure, and littoral combat through historical case studies, wargame data, and operational modeling, all while maintaining clarity, tactical relevance, and a professional tone.
+
+<br>
+
+![Floating Amphib 'Iron Turtle' Military Tank](https://github.com/user-attachments/assets/c003306a-e07b-4546-89b0-aa1f6eefe5a0)
 
 #
 
