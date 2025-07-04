@@ -6,6 +6,14 @@ The custom military GPTs in this repo showcase a layered architecture and highly
 
 #
 
+![Frogskin](https://github.com/user-attachments/assets/1c1d6ebe-067e-4f85-9f3a-8c07dc6b66b9)
+
+Frog skin camo, also known as "Duck Hunter" camo, is widely recognized today as a pattern used in civilian hunting gear and fashion, particularly in the United States. Though it originated as a military design during World War II, its primary association in modern times is with outdoor enthusiasts and vintage-inspired apparel. The pattern’s organic, blob-like shapes and earthy tones make it especially popular among hunters for blending into woodland environments. It has also found a place in streetwear and retro fashion collections, detached from its original wartime context. As such, frog skin camo is not typically considered a military or combat camo today, but rather a nostalgic and functional design rooted in civilian use.
+
+CADPAT (Canadian Disruptive Pattern) is the digital camouflage pattern currently used by the modern Canadian Armed Forces. Introduced in the early 2000s, CADPAT was one of the world’s first digital camo systems designed to enhance concealment through pixelated micro-patterns that disrupt the outline of soldiers in various environments. It comes in multiple variants, including temperate woodland (TW), arid regions (AR), and winter operations (WO), tailored to specific operational settings. CADPAT provides superior camouflage effectiveness compared to older analog patterns, especially in forested and mixed terrain, and reflects Canada's commitment to technological innovation in military gear.
+
+#
+
 ![Scuba Rocket](https://github.com/user-attachments/assets/97823d0a-6faa-4f15-8c21-ea2a586e8c33)
 
 [Military Module](https://chatgpt.com/g/g-677ec39e33f881918d6d02c27918bd7d-military-module) was developed to support the design, engineering, and optimization of modular military systems and equipment. It specializes in developing flexible, scalable, and adaptive solutions tailored for diverse operational environments and mission profiles. Whether the focus is on personal protective gear, vehicle platforms, weapon systems, or logistical infrastructure, this GPT helps conceptualize and refine modular designs that ensure interoperability, rapid deployment, ease of maintenance, and future upgradeability. It provides detailed technical insights, compatibility assessments, and engineering solutions that align with military standards, while also factoring in durability, cost-efficiency, and the integration of advanced technologies such as smart materials and autonomous systems. The tool is particularly effective for collaboratively troubleshooting design challenges, creating comprehensive specifications, and proposing innovative enhancements that reinforce operational effectiveness and tactical versatility.
